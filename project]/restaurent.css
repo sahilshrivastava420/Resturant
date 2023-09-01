@@ -1,0 +1,30 @@
+.restaurent{
+position: relative;
+top: -600px;
+left: 300px;
+}
+.menu1{
+    text-align: center;
+    background-color: yellowgreen;
+}
+.menu2{
+    text-align: center;
+    background-color: yellowgreen;
+}
+.one:hover{
+    color: red;
+    background: green;
+    width: 100px;
+    height: 25px;
+}
+.one{
+    background: skyblue;
+}
+.two{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+}
+#last{
+    font-style: italic;
+}
